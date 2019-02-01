@@ -31,13 +31,13 @@
         </dependency>
 
         <!--可以不适用这个,也可以使用-->
-        <!--
+<!--
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
-        -->
+-->
 
         <!--可以只用下面的仓库,而不用spring的test仓库-->
         <!--当然这样的话@SpringBootTest注解就不能使用了-->
